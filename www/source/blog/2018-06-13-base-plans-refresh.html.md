@@ -15,7 +15,7 @@ We will be refreshing the base plans of Core Plans on Tuesday, June 19th.  Let's
 
 Currently, there are about 500 Habitat plans under the Core Origin on Builder.
 
-These include everything from services like Postgresql to binaries like go to very low level system libraries, all of which you can easily pull into your own Habitat artifacts.
+These include everything from services like Postgresql to binaries like Go to very low level system libraries like GCC, all of which you can easily pull into your own Habitat artifacts.
 
 ### What's a Base Plan?
 
